@@ -1,0 +1,25 @@
+.world {
+  color: #7fff00;
+  border: 15px;
+  text-align: right;
+  font-size: 40px;
+  font-family: 'Trispace', sans-serif;
+  line-height: normal;
+}
+
+.monday {
+  color: #8A2BE2;
+  text-align: center;
+  font-size: 60px;
+  font-family: 'Roboto', sans-serif;
+  line-height: 26px;
+}
+
+.limit {
+  color: #7FFFD4;
+  width: 500px;
+  height: 500px;
+  font-size: 40px;
+  text-align: left;
+  font-family: 'Rubik Moonrocks';
+}
